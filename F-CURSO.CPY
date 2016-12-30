@@ -1,0 +1,5 @@
+       FD CURSOS LABEL RECORD IS STANDARD.
+       01 REG-CURSOS.
+          03 CUR-CODIGO        PIC 9(02).
+          03 CUR-DESCRIPCION   PIC X(30).
+          03 CUR-ABREVIATURA   PIC X(04).

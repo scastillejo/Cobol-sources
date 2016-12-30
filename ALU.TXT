@@ -1,0 +1,4 @@
+AMICO     NESTOR    46                      CANAL
+AMICO     JOSE      78    UNION 
+AMICO     PEDRO     66       CENTRO
+AMICO     JUAN      96          CALLE

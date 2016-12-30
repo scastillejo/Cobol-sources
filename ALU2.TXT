@@ -1,0 +1,13 @@
+001JUAN                CARLOS              19990202
+002ARIEL               LOPEZ               19880404
+003AAAAAAA             AAA                 19760101
+004BBB                 BB                  19820707
+005CCCCCCCCCCCCC       CCCC                19790531
+006DDDDDDDD            DDDDDD              19801231
+007EEEEEEE             EEEE                20000101
+008FFFFFFFFFFF         FFFFF               19701030
+009KKKKKKKKKKK         KKKKKKKK            19650928
+010QQQQQQQQQQQQQQ      QQQQQ               19551229
+013QQQQQQQQQQQQQQ      QQQQQ               19551229
+014QQQQQQQQQQQQQQ      QQQQQ               19551229
+
